@@ -30,6 +30,7 @@ RUN set -ex; \
         g++ \
 	unzip \
         ssh \
+        nodejs \
 	ffmpeg \
 	chromium-browser \
 	firefox \
